@@ -1,0 +1,1 @@
+# Aligned reads drop here. gitignored
